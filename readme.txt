@@ -1,10 +1,10 @@
 Backtesting Period: 2010-01-01 to Present
 
-Used a 12-month lookback period (T = 12) & a 1-month skip period (S = 1) throughout this assignment.
+Used a 12-month lookback period (T = 12) & a 1-month skip period (S = 1).
 
 Also, used raw cumulative return as a metric to rank stocks, coded in an option to use the risk-adjusted returns as well!
 
-Assignment Contents:
+Contents:
 
 Part1: 100% Momentum (contains survivorship bias)
        - Used NIFTY50, NIFTY100, NIFTY200 & NIFTY500 as investible universes.
@@ -18,7 +18,7 @@ Part2: Addressing Survivorship Bias
 
 Part3: Value + Momentum
        - Combined value and momentum factors. 
-       - Returns were poor, so this approach was not emphasized but included for completeness :(
+       - Approach not emphasized but included for completeness.
 
 Ignored trading and custody costs and any taxes.
 ----->  "With the growth of strong discount brokers in India, general
