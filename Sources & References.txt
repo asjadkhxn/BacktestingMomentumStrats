@@ -1,0 +1,24 @@
+Sources & References:
+
+1) Key International Academic References:
+	Asness, C. S. (1994). “Variables that Explain Stock Returns.”
+	Jegadeesh, N., & Titman, S. (1993). “Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency.”
+	Grinblatt, M., & Moskowitz, T. J. (2004). “Predicting Stock Price Movements from Past Returns: The Role of Consistency and Tax-Loss Selling.”
+	Asness, C. S., Moskowitz, T. J., & Pedersen, L. H. (2013). “Value and Momentum Everywhere.”
+	Asness, C. S., et al. (2014). “Fact, Fiction, and Momentum Investing.”
+
+
+2) Research Papers (Indian Market Context):
+	Raju, Rajan & Chandrasekaran, Abhijit. “Implementing a Systematic Long-only Momentum Strategy: Evidence From India.”
+	Raju, Rajan. “An Examination of Number of Holdings and Universe Size in Momentum Strategies: Evidence from India.”
+	Raju, Rajan. “Timing the Tide: The Impact of Rebalancing Periods in Momentum Investing in Indian Equities.”
+
+
+3) Blogs:
+	Astratinvest. (2023). “Past Patterns, Future Profits: The Power of Historical Data.” www.astratinvest.com/view-blog/past-patterns-future-profits-power-of-historical-data.
+	Astratinvest. (2023). “From Data to Decisions: The Art of Backtesting.” www.astratinvest.com/view-blog/from-data-to-decisions-the-art-of-backtesting.
+
+
+4) Data Sources:
+	NIFTY50, NIFTY100, NIFTY200 & NIFTY500, NIFTY750 (as available from NSE India & Yahoo Finance)
+
